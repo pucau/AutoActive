@@ -1,0 +1,3 @@
+# AutoActive
+
+python main.py
